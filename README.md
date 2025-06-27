@@ -1,7 +1,8 @@
 # 🧙‍♂️ Wizarding Quest
 
 An interactive Harry Potter-themed game website where users can test their wizarding knowledge through various challenges and games.
-👉 [Visit this site](https://wizarding-quest.netlify.app/)
+
+👉 [Try it](https://wizarding-quest.netlify.app/)
 
 ## 🎮 Game Modes
 
